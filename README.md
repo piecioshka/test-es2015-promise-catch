@@ -1,5 +1,11 @@
 # test-es2015-promise-catch
 
+[![node version](https://img.shields.io/node/v/test-es2015-promise-catch.svg)](https://www.npmjs.com/package/test-es2015-promise-catch)
+[![npm version](https://badge.fury.io/js/test-es2015-promise-catch.svg)](https://badge.fury.io/js/test-es2015-promise-catch)
+[![dependencies](https://david-dm.org/piecioshka/test-es2015-promise-catch.svg)](https://github.com/piecioshka/test-es2015-promise-catch)
+[![travis-ci](https://api.travis-ci.org/piecioshka/test-es2015-promise-catch.svg?branch=master)](https://travis-ci.org/piecioshka/test-es2015-promise-catch)
+[![snyk](https://snyk.io/test/github/piecioshka/test-es2015-promise-catch/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/test-es2015-promise-catch?targetFile=package.json)
+
 :ledger: Testing Promise.catch method
 
 ## Unit tests

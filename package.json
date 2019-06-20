@@ -12,16 +12,11 @@
     "scripts": {
         "clear": "",
         "clear:all": "rm -rf node_modules/ && npm run clear",
-        "test": "npm run test:unit",
-        "test:unit": "jasmine JASMINE_CONFIG_PATH=test/unit/jasmine.json",
-        "count": "find . -name '*.js' -not -path './node_modules/*' | xargs wc -l | sort -r",
-        "lint": "eslint ./ ; exit 0"
+        "test": "jasmine test/specs/*"
     },
     "dependencies": {},
     "devDependencies": {
-        "eslint": "^3.16.1",
-        "eslint-config-piecioshka": "^1.1.7",
-        "jasmine": "^2.5.3"
+        "jasmine": "^3.4.0"
     },
     "repository": {
         "type": "git",

@@ -23,6 +23,6 @@
         "url": "git@github.com:piecioshka/test-es2015-promise-catch.git"
     },
     "engines": {
-        "node": ">=5"
+        "node": ">=6"
     }
 }
